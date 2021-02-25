@@ -1,0 +1,14 @@
+---
+# Copyright Zeyroz#1353
+# Ne pas partagez
+
+# Choissisez le message que vous souhaitez envoyé !
+# Write the message you want sent !
+
+message: ">> (Votre discord)"
+
+# If error
+# Si il y a une erreur
+
+error: "Pour effectué cette commande, vous devez être un joueur"
+...

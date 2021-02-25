@@ -1,0 +1,11 @@
+---
+name: DiscordCMD
+main: zeyroz\discordcommands\Main
+version: 1.0.0
+api: 3.0.0
+author: zeyroz#1353
+
+commands:
+  discord:
+    description: "Affiché notre discord"
+...
